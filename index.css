@@ -1,0 +1,30 @@
+ul {
+  justify-content: center;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+
+li {
+  font-size: 12px;
+  text-align: center;
+}
+
+section {
+  justify-content: center;
+  display: Flex;
+  flex-direction: row;
+}
+
+body {
+  text-align: center;
+}
+
+div {
+  padding: 2rem;
+}
+
+#occupation{
+  text-align: start;
+}
